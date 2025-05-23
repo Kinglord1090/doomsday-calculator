@@ -15,7 +15,7 @@ This project is a date calculator that determines the day of the week for any gi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/doomsday-calculator.git
+    git clone https://github.com/Kinglord1090/doomsday-calculator.git
     ```
 
 ## Usage
